@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valconnect-dashboard/static/css/main.2e662a65.css",
+    "main.js": "/valconnect-dashboard/static/js/main.7cdca1c9.js",
+    "index.html": "/valconnect-dashboard/index.html",
+    "main.2e662a65.css.map": "/valconnect-dashboard/static/css/main.2e662a65.css.map",
+    "main.7cdca1c9.js.map": "/valconnect-dashboard/static/js/main.7cdca1c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e662a65.css",
+    "static/js/main.7cdca1c9.js"
+  ]
+}
